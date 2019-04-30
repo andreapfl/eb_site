@@ -1,0 +1,12 @@
+En head va información sobre el navegador
+P + tab = parrafo
+H1 = heading
+Se pone un solo h1 por sitio
+a + tab = anchor, es para pegar links, en el # ponemos un nuevo link
+
+CSS hojas de calculo en cascada
+Hay que mantener elementos desacoplados, código con una sola complejidad
+los codigos body y de color deben ir dentro de style
+
+CLASE 2
+bootstrap es un framework css
